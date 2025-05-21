@@ -22,19 +22,23 @@
 
 ### 👨‍💻 About Me :
 
-- 👤 I'm regularly on Discord
+- 👤 Currently studying programming at university.
 
-- 👤 ask me about **html, cryptography and ruby**
+- 👤 ask me about **java, rust and golang**
 
-- 👤 contact me on discord x4wn#8950
+- 👤 contact me on discord "al4nm1"
 
-- 👤 I'm currently learning **javascript, python and discord.js**
+- 👤 The languages ​​I handle best are: **javascript, python and typescript**
 
 <div align="left">
     <h2>Languages and Frameworks:</h2>
     <h3>I have perfect control:</h3>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,mongodb,redis,nestjs,express,django,nodejs" />
+<div align="left">
+    <h3>I am learning:</h3>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=go,rust,java,cpp" />
 </div>
     
 -  -  -
