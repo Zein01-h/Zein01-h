@@ -31,9 +31,9 @@
 - 👤 I'm currently learning **javascript, python and discord.js**
 
 <div align="left">
+    <h2>Languages and Frameworks:</h2>
     <h3>Languages and Frameworks:</h3>
 <div align="left">
-I have perfect control:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,ruby,mysql,php,python,rust,cpp,cs" />
 </div>
     
