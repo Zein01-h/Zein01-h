@@ -32,9 +32,9 @@
 
 <div align="left">
     <h2>Languages and Frameworks:</h2>
-    <h3>Languages and Frameworks:</h3>
+    <h3>I have perfect control:</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,sass,ruby,mysql,php,python,rust,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,mongodb,redis,nestjs,express,django,nodejs" />
 </div>
     
 -  -  -
